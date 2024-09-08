@@ -2,7 +2,7 @@
   "name": "react-player-app",
   "type": "module",
   "version": "0.1.0",
-  "homepage": "https://dmytro-lukashenko.github.io/react-small-app",
+  "homepage": "https://dmytro-lukashenko.github.io/react-player-app",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
