@@ -23,7 +23,7 @@ const ResultModal = forwardRef(({ targetTime, remainingTime, onReset }, ref) => 
                 <button>Close</button>
             </form>
         </dialog>,
-        document.getElementById("root")
+        document.getElementById("modal")
     )
 })
 
